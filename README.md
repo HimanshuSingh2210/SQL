@@ -1,1 +1,2 @@
-# MSSQL overview
+## MSSQL Concepts
+#DQL-DATA QUERY LANGUAGE
